@@ -1,0 +1,4 @@
+parameters,value
+max_temp,15
+min_temp,0
+epochs,5
